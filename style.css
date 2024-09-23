@@ -12,12 +12,14 @@
 
 .nav-link {
     color:grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 500;
     position: relative;
 }
 
 .nav-link:hover,.btn-close:focus {
     color: blue; /* Change to your desired hover color */
+    background-color:rgb(122, 240, 172);
 }
 
 
