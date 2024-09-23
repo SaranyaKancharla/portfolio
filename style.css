@@ -40,3 +40,32 @@
     width: 100%;
     visibility: visible;
 }
+
+.division{
+    display: flex;
+}
+.left
+{
+    width: 50%;
+    height:100vh;
+    justify-content: center;
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    
+}
+
+.right{
+    width: 50%;
+    height:100vh;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+}
+
+.icons-class{
+    display: flex;
+    justify-content: start;
+}
